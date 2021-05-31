@@ -1,5 +1,5 @@
 package org.example;
-
+//
 public class Personne {
     public Double taille = 0.0d, poids = 0.0d;
     public String nom = "", prenom = "";
